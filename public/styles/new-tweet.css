@@ -1,0 +1,113 @@
+
+form > textarea {
+ 	padding: 5px;
+ 	width: 94%;
+ 	margin-left: 3%;
+}
+
+form > #btn {
+	margin-left: 3%;
+	margin-right: 20%;
+	margin-bottom: 2%;
+	width: 10%
+	height: 20px;
+	line-height: 20px
+}
+
+h2 {
+ 	border-bottom-color: #244751;
+ 	border-bottom: 1px solid; 
+ 	color: #244751;
+ 	margin-left: 3%;
+ 	margin-right: 3%;
+}
+
+form > span {
+	margin-left: 3%;
+	color: #244751;
+}
+
+section {
+	width: 70%;
+	background-color: #EEEEEE;
+	margin: auto;
+	margin-top: 11%;
+	margin-bottom: -6%;
+	line-height: 200%;
+	border: 1px solid #AAAAAA;
+	-webkit-border-radius: 10px 10px 10px 10px;
+}
+
+#tweets-container {
+	width: 70%;
+	background-color: white;
+	margin: auto;
+	margin-top: 10%;
+}
+
+header {
+	width: 100%;
+	padding: 1%;
+	background-color: #EEEEEE;
+	border-bottom: 1px solid #AAAAAA;
+	line-height: 7%;
+	-webkit-border-radius: 10px 10px 0px 0px;
+}
+
+.tw_logo {
+	width:  7%;
+	margin-right: 1%;
+	vertical-align: middle;
+}
+
+.tweet_title {
+	margin-left: 1%;
+	vertical-align: middle;
+}
+
+.tweet_id {
+	display: block;
+	margin-top: 2%;
+	margin-left: 2%;
+	color: #777777;
+	float: right;
+}
+
+.comment  p {
+	padding: 2%;
+	line-height: 40%;
+}
+
+.tweet {
+	border: 1px solid #AAAAAA;
+	margin-top: 4%;
+	-webkit-border-radius: 10px 10px 10px 10px;
+
+}
+footer .fas {
+	color: #00a087;
+	margin-bottom: 2%;
+	margin-left: 2%;
+	vertical-align: top;
+	line-height: 10%;
+	float: right;
+	display: none;
+}
+ #counter {
+ 	float: right;
+ 	margin-right: 2%;
+ }
+
+div:hover  .fas {
+	display: inline;
+}
+ .tweet:hover  {
+	border-color: black;
+}
+
+footer {
+	width: 100%;
+	padding: 1em;
+	line-height: 7%;
+	border-top: 1px solid #AAAAAA;
+}

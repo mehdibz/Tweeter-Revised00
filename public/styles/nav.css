@@ -1,0 +1,36 @@
+#nav-bar{
+	height: 80px;
+	width: 100%;
+	background-color: #00a087;
+	color: #e8fdff;
+	padding-left: 2em;
+	padding-right: 2em;
+	margin: auto;
+	position: fixed;
+}
+
+#nav-bar > .logo{
+	width: 80px; 
+	height: 80px;
+}
+
+#nav-bar > .header{
+	margin-left: 10px;
+	font-size: 2em;
+	line-height: 75px;
+	vertical-align: top;
+}
+
+#compose {
+	width: 17%;
+	line-height: 50px;
+	margin-top: 1%;
+	margin-bottom: 5%;
+	float: right;
+	color: #00a087;
+}
+
+#compose:hover { 
+    background-color: white;
+    color: black;
+}
