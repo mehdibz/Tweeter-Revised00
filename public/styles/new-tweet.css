@@ -31,9 +31,9 @@ section {
 	width: 70%;
 	background-color: #EEEEEE;
 	margin: auto;
-	margin-top: 11%;
+	margin-top: 15%;
 	margin-bottom: -6%;
-	line-height: 200%;
+	line-height: 150%;
 	border: 1px solid #AAAAAA;
 	-webkit-border-radius: 10px 10px 10px 10px;
 }
@@ -42,7 +42,7 @@ section {
 	width: 70%;
 	background-color: white;
 	margin: auto;
-	margin-top: 10%;
+	margin-top: 13%;
 }
 
 header {
@@ -82,32 +82,30 @@ header {
 	border: 1px solid #AAAAAA;
 	margin-top: 4%;
 	-webkit-border-radius: 10px 10px 10px 10px;
-
 }
+
 footer .fas {
 	color: #00a087;
-	margin-bottom: 2%;
 	margin-left: 2%;
-	vertical-align: top;
-	line-height: 10%;
+	line-height: 4%;
 	float: right;
 	display: none;
 }
- #counter {
+#counter {
  	float: right;
  	margin-right: 2%;
- }
+}
 
-div:hover  .fas {
+div:hover .fas {
 	display: inline;
 }
- .tweet:hover  {
+.tweet:hover  {
 	border-color: black;
 }
 
 footer {
 	width: 100%;
 	padding: 1em;
-	line-height: 7%;
+	line-height: 4%;
 	border-top: 1px solid #AAAAAA;
 }
